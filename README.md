@@ -1,6 +1,5 @@
 
-![SSpirate's github stats](https://github-readme-stats.vercel.app/api?username=SSpirate&show_icons=true&&title_color=03E6FF&text_color=9f9f9f&theme=radical) <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSpirate&hide=html&title_color=03E6FF&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" />
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
