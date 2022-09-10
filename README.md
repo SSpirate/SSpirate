@@ -12,7 +12,7 @@
   <li>😄 Wanna know me ? Just <a href="https://www.google.co.in/search?q=sanjai+siddharthan+M">Google</a></li>
  
   
-  <li>🧥Pronouns: he/him/his</li>
+  <li>Pronouns: he/him/his</li>
 </ul>
 <br/>
 <br/>
@@ -28,9 +28,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SSpirate&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=SSpirate&theme=dark&hide_border=true" />
-    </td>
+    
   </tr>
 </table>
 
